@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\bin\Debug\net8.0-windows\Practica13_Sueldo.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\bin\Debug\net8.0-windows\Practica13_Sueldo.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\bin\Debug\net8.0-windows\Practica13_Sueldo.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\bin\Debug\net8.0-windows\Practica13_Sueldo.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\bin\Debug\net8.0-windows\Practica13_Sueldo.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\refint\Practica13_Sueldo.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\Practica13_Sueldo.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica13_Sueldo\obj\Debug\net8.0-windows\ref\Practica13_Sueldo.dll

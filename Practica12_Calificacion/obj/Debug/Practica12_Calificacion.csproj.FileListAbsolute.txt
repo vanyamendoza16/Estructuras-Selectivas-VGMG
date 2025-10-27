@@ -1,0 +1,10 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\bin\Debug\Practica12_Calificacion.exe.config
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\bin\Debug\Practica12_Calificacion.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\bin\Debug\Practica12_Calificacion.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.csproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.Properties.Resources.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica12_Calificacion\obj\Debug\Practica12_Calificacion.pdb
