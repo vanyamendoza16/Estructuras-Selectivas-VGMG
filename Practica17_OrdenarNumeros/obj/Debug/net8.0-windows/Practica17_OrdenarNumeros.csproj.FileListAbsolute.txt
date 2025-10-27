@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\bin\Debug\net8.0-windows\Practica17_OrdenarNumeros.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\bin\Debug\net8.0-windows\Practica17_OrdenarNumeros.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\bin\Debug\net8.0-windows\Practica17_OrdenarNumeros.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\bin\Debug\net8.0-windows\Practica17_OrdenarNumeros.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\bin\Debug\net8.0-windows\Practica17_OrdenarNumeros.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\refint\Practica17_OrdenarNumeros.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\Practica17_OrdenarNumeros.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica17_OrdenarNumeros\obj\Debug\net8.0-windows\ref\Practica17_OrdenarNumeros.dll

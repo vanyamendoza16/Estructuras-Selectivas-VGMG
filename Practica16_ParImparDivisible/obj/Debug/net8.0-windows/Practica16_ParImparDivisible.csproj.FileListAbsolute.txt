@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\bin\Debug\net8.0-windows\Practica16_ParImparDivisible.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\bin\Debug\net8.0-windows\Practica16_ParImparDivisible.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\bin\Debug\net8.0-windows\Practica16_ParImparDivisible.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\bin\Debug\net8.0-windows\Practica16_ParImparDivisible.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\bin\Debug\net8.0-windows\Practica16_ParImparDivisible.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\refint\Practica16_ParImparDivisible.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\Practica16_ParImparDivisible.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica16_ParImparDivisible\obj\Debug\net8.0-windows\ref\Practica16_ParImparDivisible.dll
