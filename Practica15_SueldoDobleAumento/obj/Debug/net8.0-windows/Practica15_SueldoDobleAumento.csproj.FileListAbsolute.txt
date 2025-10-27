@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\bin\Debug\net8.0-windows\Practica15_SueldoDobleAumento.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\bin\Debug\net8.0-windows\Practica15_SueldoDobleAumento.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\bin\Debug\net8.0-windows\Practica15_SueldoDobleAumento.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\bin\Debug\net8.0-windows\Practica15_SueldoDobleAumento.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\bin\Debug\net8.0-windows\Practica15_SueldoDobleAumento.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\refint\Practica15_SueldoDobleAumento.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\Practica15_SueldoDobleAumento.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica15_SueldoDobleAumento\obj\Debug\net8.0-windows\ref\Practica15_SueldoDobleAumento.dll

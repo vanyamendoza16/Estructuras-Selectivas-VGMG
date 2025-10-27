@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practica15_SueldoDobleAumento/1.0.0": {
+        "runtime": {
+          "Practica15_SueldoDobleAumento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica15_SueldoDobleAumento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

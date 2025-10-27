@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\bin\Debug\net8.0-windows\Practica18_TipoTriangulo.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\bin\Debug\net8.0-windows\Practica18_TipoTriangulo.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\bin\Debug\net8.0-windows\Practica18_TipoTriangulo.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\bin\Debug\net8.0-windows\Practica18_TipoTriangulo.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\bin\Debug\net8.0-windows\Practica18_TipoTriangulo.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\refint\Practica18_TipoTriangulo.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\Practica18_TipoTriangulo.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica18_TipoTriangulo\obj\Debug\net8.0-windows\ref\Practica18_TipoTriangulo.dll
