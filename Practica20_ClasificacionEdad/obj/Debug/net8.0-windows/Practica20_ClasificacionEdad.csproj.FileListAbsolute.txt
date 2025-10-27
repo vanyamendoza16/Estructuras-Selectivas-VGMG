@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\bin\Debug\net8.0-windows\Practica20_ClasificacionEdad.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\bin\Debug\net8.0-windows\Practica20_ClasificacionEdad.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\bin\Debug\net8.0-windows\Practica20_ClasificacionEdad.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\bin\Debug\net8.0-windows\Practica20_ClasificacionEdad.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\bin\Debug\net8.0-windows\Practica20_ClasificacionEdad.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\refint\Practica20_ClasificacionEdad.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\Practica20_ClasificacionEdad.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica20_ClasificacionEdad\obj\Debug\net8.0-windows\ref\Practica20_ClasificacionEdad.dll
