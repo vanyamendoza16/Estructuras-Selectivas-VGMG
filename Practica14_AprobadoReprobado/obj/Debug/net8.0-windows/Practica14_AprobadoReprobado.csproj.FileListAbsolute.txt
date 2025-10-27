@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\bin\Debug\net8.0-windows\Practica14_AprobadoReprobado.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\bin\Debug\net8.0-windows\Practica14_AprobadoReprobado.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\bin\Debug\net8.0-windows\Practica14_AprobadoReprobado.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\bin\Debug\net8.0-windows\Practica14_AprobadoReprobado.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\bin\Debug\net8.0-windows\Practica14_AprobadoReprobado.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\refint\Practica14_AprobadoReprobado.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\Practica14_AprobadoReprobado.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 1. Estructuras Selectivas\Practica14_AprobadoReprobado\obj\Debug\net8.0-windows\ref\Practica14_AprobadoReprobado.dll
